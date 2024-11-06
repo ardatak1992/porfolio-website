@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="w-screen min-h-screen flex flex-col">
+    <div className=" flex flex-col overflow-x-hidden">
       <HeroSection />
       <SkillsSection />
       <ProfileSection />

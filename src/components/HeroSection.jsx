@@ -8,7 +8,7 @@ const HeroSection = () => {
     <section
       className="from-primary-light from-0%
      via-primary-light via-70% to-70% to-secondary-light sm:bg-gradient-to-r bg-gradient-to-b  text-secondary-light
-     w-full"
+     w-full flex flex-col justify-center dark:from-primary-dark dark:via-primary-dark dark:to-secondary-dark"
     >
       <header className="text-secondary-light p-5 relative">
         <h3 className="ml-10 mt-5 text-2xl font-bold text-secondary-light">arda</h3>
@@ -21,9 +21,9 @@ const HeroSection = () => {
           </div>
         </div>
       </header>
-      <div className="my-10 flex sm:flex-row items-center flex-col justify-end gap-20 w-[70%] translate-x-[12.5%]">
+      <div className="my-10 flex  sm:flex-row items-center self-center flex-col  justify-between gap-20 w-[70%] max-w-[1200px]">
         <div className="flex flex-col gap-5 mr-10 sm:mr-5">
-          <h1 className="text-4xl">
+          <h1 className="text-5xl font-bold">
             I'm a Frontend <br /> Developer...
           </h1>
           <p className="text-xl">
