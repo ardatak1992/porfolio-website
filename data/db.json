@@ -1,0 +1,92 @@
+{
+  "en": {
+    "hero": {
+      "title": "I'm a Frontend Developer...",
+      "tag": "...who likes to craft solid and scalable frontend products with great user experiences."
+    },
+    "skills": {
+      "title": "Skills"
+    },
+    "profile": {
+      "title": "Profile",
+      "basicTitle": "Basic Information",
+      "aboutTitle": "About Me",
+      "birth": "Date of Birth",
+      "city": "City of Residence",
+      "education": "Education Status",
+      "school": "Uludağ Uni. Electronical Eng.",
+      "role": "Prefered Role",
+      "about": "After I graduated from electrical engineering, I turned to software, and since then I'm trying to be a full-stack developer. I acquire new skills and grow as a programmer every day by tackling new challenges and solving them. I aspire to be a full-stack developer who can design, create, and run any project that I put my mind into."
+    },
+    "projects": {
+      "title": "Projects",
+      "projects": [
+        {
+          "title": "Pizza Project",
+          "info": "A simple Pizza Restaurant Website with minimal order functionality",
+          "imgUrl": "/src/assets/p1.png",
+          "tags": ["react", "vercel"],
+          "githubUrl": "https://github.com/ardatak1992/fsweb-s8-challange-pizza",
+          "url": "https://fsweb-s8-challange-pizza.vercel.app/"
+        },
+        {
+          "title": "Journey",
+          "info": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "imgUrl": "/src/assets/p2.png",
+          "tags": ["react", "redux", "vercel"],
+          "githubUrl": "",
+          "url": ""
+        }
+      ]
+    },
+    "footer": {
+      "title": "Send me a message!",
+      "tag": "Got a question or a proposal, or just want to say hello? Go ahead."
+    }
+  },
+  "tr": {
+    "hero": {
+      "title": "...Ön Uç Geliştiricisiyim",
+      "tag": "Harika kullanıcı deneyimleri ile sağlam ve ölçeklenebilir ön uç ürünleri oluşturmayı seven bir..."
+    },
+    "skills": {
+      "title": "Yetenekler"
+    },
+    "profile": {
+      "title": "Profil",
+      "basicTitle": "Genel Bilgiler",
+      "aboutTitle": "Hakkımda",
+      "birth": "Doğum Tarihi",
+      "city": "Yaşadığı Şehir",
+      "education": "Eğitim Durumu",
+      "school": "Uludağ Uni. Elektrik-Elektronik",
+      "role": "Tercih Ettiği Rol",
+      "about": "Elektrik mühendisliğinden mezun olduktan sonra yazılıma yöneldim ve o zamandan beri full-stack developer olmaya çalışıyorum. Her gün yeni beceriler ediniyor ve yeni zorluklarla mücadele ederek ve bunları çözerek, bir programcı olarak kendimi geliştiriyorum. Aklıma koyduğum herhangi bir projeyi tasarlayabilen, oluşturabilen ve çalıştırabilen bir full-stack developer olmayı hedefliyorum."
+    },
+    "projects": {
+      "title": "Projeler",
+      "projects": [
+        {
+          "title": "Pizza Projesi",
+          "info": "Minimum sipariş işlevselliğine sahip basit bir Pizza Restoranı Web Sitesi",
+          "imgUrl": "/src/assets/p1.png",
+          "tags": ["react", "vercel"],
+          "githubUrl": "https://github.com/ardatak1992/fsweb-s8-challange-pizza",
+          "url": "https://fsweb-s8-challange-pizza.vercel.app/"
+        },
+        {
+          "title": "Journey",
+          "info": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulum çerez eklentisi. Bu, vanilla JS, SCSS ve Parcel Bundler ile oluşturuldu ve bir NPM paketi olarak mevcut ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılıyor.",
+          "imgUrl": "/src/assets/p2.png",
+          "tags": ["react", "redux", "vercel"],
+          "githubUrl": "",
+          "url": ""
+        }
+      ]
+    },
+    "footer": {
+      "title": "Bana bir mesaj gönderin!",
+      "tag": "Bir sorunuz ya da öneriniz mi var, yoksa sadece merhaba mı demek istiyorsunuz?"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 import React from "react";
 
 const Skill = ({ skillName, logoUri, bgColor }) => {
-  console.log(bgColor);
+  
   return (
     <div className="flex gap-4 items-center">
       <div
