@@ -3,12 +3,12 @@ import { useContext } from "react";
 import DataContext from "../context/DataContext";
 
 import Skill from "./Skill";
-import jsIcon from "../assets/icons/jsIcon.jpg";
-import nodejsIcon from "../assets/icons/nodejsIcon.jpg";
-import reactIcon from "../assets/icons/reactIcon.png";
-import reduxIcon from "../assets/icons/reduxIcon.png";
-import vsCodeIcon from "../assets/icons/vsCodeIcon.png";
-import figmaIcon from "../assets/icons/figmaIcon.jpg";
+import jsIcon from "/assets/icons/jsIcon.jpg";
+import nodejsIcon from "/assets/icons/nodejsIcon.jpg";
+import reactIcon from "/assets/icons/reactIcon.png";
+import reduxIcon from "/assets/icons/reduxIcon.png";
+import vsCodeIcon from "/assets/icons/vsCodeIcon.png";
+import figmaIcon from "/assets/icons/figmaIcon.jpg";
 
 
 const skills = [

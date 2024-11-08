@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import DataContext from "../context/DataContext";
 
-import codePicture from "../assets/codePicture.jpg";
+import codePicture from "/assets/codePicture.jpg";
 
 const ProfileSection = () => {
   const { lang, setLang, texts } = useContext(DataContext) || {};

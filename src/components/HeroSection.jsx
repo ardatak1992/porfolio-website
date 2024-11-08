@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import Switch from "./Switch";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import profileImg from "../assets/profile-img.jpg";
+import profileImg from "/assets/profile-img.jpg";
 import DataContext from "../context/DataContext";
 
 const HeroSection = () => {

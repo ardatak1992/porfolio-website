@@ -24,7 +24,7 @@
         {
           "title": "Pizza Project",
           "info": "A simple Pizza Restaurant Website with minimal order functionality",
-          "imgUrl": "/src/assets/p1.png",
+          "imgUrl": "/assets/p1.png",
           "tags": ["react", "vercel"],
           "githubUrl": "https://github.com/ardatak1992/fsweb-s8-challange-pizza",
           "url": "https://fsweb-s8-challange-pizza.vercel.app/"
@@ -32,7 +32,7 @@
         {
           "title": "Journey",
           "info": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
-          "imgUrl": "/src/assets/p2.png",
+          "imgUrl": "/assets/p2.png",
           "tags": ["react", "redux", "vercel"],
           "githubUrl": "",
           "url": ""
@@ -69,7 +69,7 @@
         {
           "title": "Pizza Projesi",
           "info": "Minimum sipariş işlevselliğine sahip basit bir Pizza Restoranı Web Sitesi",
-          "imgUrl": "/src/assets/p1.png",
+          "imgUrl": "/assets/p1.png",
           "tags": ["react", "vercel"],
           "githubUrl": "https://github.com/ardatak1992/fsweb-s8-challange-pizza",
           "url": "https://fsweb-s8-challange-pizza.vercel.app/"
@@ -77,7 +77,7 @@
         {
           "title": "Journey",
           "info": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulum çerez eklentisi. Bu, vanilla JS, SCSS ve Parcel Bundler ile oluşturuldu ve bir NPM paketi olarak mevcut ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılıyor.",
-          "imgUrl": "/src/assets/p2.png",
+          "imgUrl": "/assets/p2.png",
           "tags": ["react", "redux", "vercel"],
           "githubUrl": "",
           "url": ""
