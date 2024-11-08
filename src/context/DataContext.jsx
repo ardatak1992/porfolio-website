@@ -8,20 +8,15 @@ export const DataProvider = ({ children }) => {
 
   const [lang, setLang] = useLocalStorage("lang", "tr");
 
-  const { data, fetchError, isLoading } = useAxiosFetch(
-    `http://localhost:3500/${lang}`
-  );
+  const { data, fetchError, isLoading } = useAxiosFetch(`./data/db.json`);
 
   useEffect(() => {
     if (data) {
-      
-      setTexts(data);
+      setTexts(data[lang]);
     } else if (fetchError) {
       console.log(fetchError);
     }
   }, [data, lang]);
-
-  
 
   return (
     <DataContext.Provider
